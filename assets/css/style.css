@@ -1180,7 +1180,7 @@ section {
 }
 
 .footer-container{
-  padding:0.5vw 1vw 0 1vw;
+  padding:2vw 1vw 0 1vw;
   display: flex;
   align-items: center;
   justify-content: space-around;
